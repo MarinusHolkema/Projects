@@ -1,8 +1,16 @@
+
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/AddTwoNumbers/.vs/AddTwoNumbers
-/AddTwoNumbers/AddTwoNumbers/obj
-/HelloWorld/.vs/HelloWorld/FileContentIndex
-/AddTwoNumbers/AddTwoNumbers/bin/Debug/net6.0
+/*/.vs/*
+/*/*/obj
+
+/*/*/bin
+
+*.suo
+*.user
+bin
+obj
+packages
+
